@@ -19,7 +19,7 @@ h2 {
     display: inline-block;
     text-align: center;
 }
-/*Link Style*/
+/*List Style*/
 #link-container {
    width: 25%;
    margin: 2%;
@@ -42,7 +42,7 @@ h2 {
    transition: background-color 1s;
 }
  .link i, .link h2 {
-   display: inline-block; /*display side by side*/
+   display: inline-block;
    }
  .link:hover {
    background-color: #e6e6e6;
